@@ -1,4 +1,4 @@
-package Advanced;
+package advanced;
 
 import java.io.IOException;
 import java.util.List;
@@ -6,9 +6,9 @@ import java.util.List;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-import base.baseClass;
+import base.BaseClass;
 
-public class JQueryDropDowns extends baseClass {
+public class JQueryDropDowns extends BaseClass {
 
 	public static void main(String[] args) throws IOException {
 		

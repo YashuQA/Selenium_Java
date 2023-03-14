@@ -12,7 +12,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class baseClass {
+public class BaseClass {
 	public  static WebDriver driver;
 	public static Properties prop;
 	public static WebDriver initilizeDriver() throws IOException {

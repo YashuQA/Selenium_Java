@@ -1,4 +1,4 @@
-package Advanced;
+package advanced;
 
 import java.io.BufferedWriter;
 
